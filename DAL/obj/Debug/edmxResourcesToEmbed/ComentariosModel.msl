@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Comentarios_DBModelStoreContainer" CdmEntityContainer="Comentarios_DBEntities">
+    <EntitySetMapping Name="Comentarios">
+      <EntityTypeMapping TypeName="Comentarios_DBModel.Comentarios">
+        <MappingFragment StoreEntitySet="Comentarios">
+          <ScalarProperty Name="ComentarioID" ColumnName="ComentarioID" />
+          <ScalarProperty Name="PublicacionID" ColumnName="PublicacionID" />
+          <ScalarProperty Name="Autor" ColumnName="Autor" />
+          <ScalarProperty Name="Contenido" ColumnName="Contenido" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

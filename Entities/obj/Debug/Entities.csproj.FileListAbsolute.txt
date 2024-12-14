@@ -1,0 +1,6 @@
+C:\Users\giuli\source\repos\Ex_Umaña_Giuliana\Entities\bin\Debug\Entities.dll
+C:\Users\giuli\source\repos\Ex_Umaña_Giuliana\Entities\bin\Debug\Entities.pdb
+C:\Users\giuli\source\repos\Ex_Umaña_Giuliana\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\giuli\source\repos\Ex_Umaña_Giuliana\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\giuli\source\repos\Ex_Umaña_Giuliana\Entities\obj\Debug\Entities.dll
+C:\Users\giuli\source\repos\Ex_Umaña_Giuliana\Entities\obj\Debug\Entities.pdb
